@@ -1,6 +1,6 @@
-####👨‍💻 0xTafari | Cybersecurity Enthusiast
+#### 👨‍💻 0xTafari | Cybersecurity Enthusiast
 
-##👾​ Sobre mí
+## 👾​ Sobre mí
 Soy una persona apasionada por la tecnología y, en especial, por el mundo de la **ciberseguridad**.  
 Recientemente he finalizado mis estudios en **Ciberseguridad**, los cuales se suman a mi formación previa en **Administración de Sistemas Informáticos en Red (ASIR)**.  
 
