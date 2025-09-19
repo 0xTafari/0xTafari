@@ -8,6 +8,18 @@ Mi recorrido académico me ha permitido adquirir una buena base en **redes, sist
 
 Aunque todavía no cuento con experiencia laboral en el sector, mi objetivo es **seguir creciendo profesionalmente** y aportar valor en proyectos relacionados con la seguridad informática, ya sea en el ámbito ofensivo como en el defensivo.
 
+## 🛠️ Habilidades Técnicas
+
+- **Sistemas Operativos**: Administración y gestión de entornos Windows y Linux.  
+- **Redes**: Configuración de dispositivos de red, gestión de servicios y aplicación de medidas de seguridad básicas.  
+- **Ciberseguridad**: Conocimientos en análisis de vulnerabilidades, hardening de sistemas, pruebas de penetración a nivel introductorio y respuesta ante incidentes.  
+- **Herramientas de seguridad**: Experiencia práctica con Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper, Snort y Suricata.  
+- **Programación y scripting**: Desarrollo de scripts en Python y Bash para tareas de automatización, análisis y pruebas.  
+- **Virtualización y entornos de laboratorio**: Creación y gestión de laboratorios en VMware, VirtualBox y Docker para prácticas de ciberseguridad y simulación de entornos corporativos.  
+
+
+
+
 
 <!--
 **0xTafari/0xTafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
