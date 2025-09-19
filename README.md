@@ -17,6 +17,30 @@ Aunque todavía no cuento con experiencia laboral en el sector, mi objetivo es *
 - **Programación y scripting**: Desarrollo de scripts en Python y Bash para tareas de automatización, análisis y pruebas.  
 - **Virtualización y entornos de laboratorio**: Creación y gestión de laboratorios en VMware, VirtualBox y Docker para prácticas de ciberseguridad y simulación de entornos corporativos.  
 
+## 📂 Proyectos y Laboratorios
+
+Aquí recopilo algunos de los proyectos y prácticas que he desarrollado durante mi formación y en mi tiempo personal. Todos están documentados en repositorios individuales dentro de mi GitHub.
+
+- **Laboratorios de Pentesting**  
+  Entornos prácticos creados en VirtualBox/VMware para realizar auditorías de seguridad con herramientas como Nmap, Metasploit y Burp Suite.  
+  → [Repositorio pendiente]
+
+- **CTF Writeups**  
+  Resolución de retos de plataformas como TryHackMe y HackTheBox, con explicaciones paso a paso del razonamiento seguido y las técnicas aplicadas.  
+  → [Repositorio pendiente]
+
+- **Análisis de tráfico de red**  
+  Capturas de paquetes con Wireshark y reglas de detección con Snort/Suricata para identificar comportamientos anómalos en entornos simulados.  
+  → [Repositorio pendiente]
+
+- **Scripts en Python y Bash**  
+  Pequeños proyectos de automatización y seguridad: escáner de puertos básico, analizador de contraseñas débiles y herramientas para gestionar logs.  
+  → [Repositorio pendiente]
+
+- **Prácticas de ASIR**  
+  Documentación y configuración de servicios de red (DNS, DHCP, Apache, FTP, etc.) con medidas de seguridad básicas aplicadas.  
+  → [Repositorio pendiente]
+
 
 
 
