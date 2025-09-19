@@ -1,4 +1,4 @@
-#### 👨‍💻 0xTafari | Cybersecurity Enthusiast
+# 👨‍💻 0xTafari | Cybersecurity Enthusiast
 
 ## 👾​ Sobre mí
 Soy una persona apasionada por la tecnología y, en especial, por el mundo de la **ciberseguridad**.  
