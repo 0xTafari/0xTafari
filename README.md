@@ -39,8 +39,7 @@ Aquí recopilo algunos de los proyectos y prácticas que he desarrollado durante
 
 - **Prácticas de ASIR**  
   Documentación y configuración de servicios de red (DNS, DHCP, Apache, FTP, etc.)  
-  → [ASIR Labs](https://github.com/0xTafari/asir-labs) - Administración de sistemas, servicios de red y hardening.
-
+  → [ASIR Labs](https://github.com/0xTafari/asir-labs)
 
 
 
