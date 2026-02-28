@@ -38,7 +38,7 @@ Aquí recopilo algunos de los proyectos y prácticas que he desarrollado durante
   → [Repositorio pendiente]
 
 - **Prácticas de ASIR**  
-  Documentación y configuración de servicios de red (DNS, DHCP, Apache, FTP, etc.) con medidas de seguridad básicas aplicadas.  
+  Documentación y configuración de servicios de red (DNS, DHCP, Apache, FTP, etc.)  
   → [Repositorio pendiente]
 
 
